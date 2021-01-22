@@ -1,6 +1,4 @@
 /**
- * Copyright (c) 2020
- *
  *  The WajdStack3 Class creates a stack, and methods to use 
  * by the PeekClear.js program.
  * 
