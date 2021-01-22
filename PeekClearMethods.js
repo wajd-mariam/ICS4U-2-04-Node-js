@@ -1,6 +1,4 @@
 /**
- * Copyright (c) 2020
- *
  * The TryCatchPop file adds integer added by the 
  * user to the stack array and it pops it off the stack. It also checks
  * whether the stack is empty or not and doesn't crash.
